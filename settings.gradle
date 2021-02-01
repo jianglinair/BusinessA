@@ -1,2 +1,4 @@
+include ':exporta'
+include ':modulea'
 include ':app'
 rootProject.name = "BusinessA"
