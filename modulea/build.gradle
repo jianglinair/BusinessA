@@ -55,5 +55,5 @@ dependencies {
     implementation 'com.github.jianglinair:ModuleCommon:0.6.1'
     annotationProcessor 'com.alibaba:arouter-compiler:1.5.1'
     // export a
-    implementation 'com.github.jianglinair.BusinessA:exporta:0.1.2'
+    implementation 'com.github.jianglinair.BusinessA:exporta:0.1.3'
 }
