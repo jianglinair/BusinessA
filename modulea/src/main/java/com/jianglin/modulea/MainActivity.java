@@ -11,11 +11,14 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
+import com.alibaba.android.arouter.facade.annotation.Route;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.navigation.NavigationView;
 import com.google.android.material.snackbar.Snackbar;
 import com.jianglin.common.BaseActivity;
+import com.jianglin.exporta.ARouterPath;
 
+@Route(path = ARouterPath.A)
 public class MainActivity extends BaseActivity {
     private static final String TAG = "MainActivity";
 

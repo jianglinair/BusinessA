@@ -8,5 +8,5 @@ package com.jianglin.exporta;
  * @author jiang
  */
 public class ARouterPath {
-    public static final String A = "a/main";
+    public static final String A = "/a/main";
 }
